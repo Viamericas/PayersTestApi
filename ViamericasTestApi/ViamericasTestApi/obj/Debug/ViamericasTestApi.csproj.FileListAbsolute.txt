@@ -1,0 +1,10 @@
+C:\Users\jose.ospina\source\repos\ViamericasTestApi\ViamericasTestApi\bin\Debug\ViamericasTestApi.exe.config
+C:\Users\jose.ospina\source\repos\ViamericasTestApi\ViamericasTestApi\bin\Debug\ViamericasTestApi.exe
+C:\Users\jose.ospina\source\repos\ViamericasTestApi\ViamericasTestApi\bin\Debug\ViamericasTestApi.pdb
+C:\Users\jose.ospina\source\repos\ViamericasTestApi\ViamericasTestApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jose.ospina\source\repos\ViamericasTestApi\ViamericasTestApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jose.ospina\source\repos\ViamericasTestApi\ViamericasTestApi\obj\Debug\ViamericasTestApi.csproj.AssemblyReference.cache
+C:\Users\jose.ospina\source\repos\ViamericasTestApi\ViamericasTestApi\obj\Debug\ViamericasTestApi.csproj.CoreCompileInputs.cache
+C:\Users\jose.ospina\source\repos\ViamericasTestApi\ViamericasTestApi\obj\Debug\ViamericasTestApi.csproj.CopyComplete
+C:\Users\jose.ospina\source\repos\ViamericasTestApi\ViamericasTestApi\obj\Debug\ViamericasTestApi.exe
+C:\Users\jose.ospina\source\repos\ViamericasTestApi\ViamericasTestApi\obj\Debug\ViamericasTestApi.pdb
